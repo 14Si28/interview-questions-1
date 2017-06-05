@@ -1,6 +1,6 @@
 # FE-interview
-收集的一些前端面试题，以后会继续更新
-
+收集的一些前端面试题，有时候看面试题其实也可以回顾知识点，认识到自己的不足，便于自我更广更深的学习
+会继续更新(侵删)
 
 http://www.cnblogs.com/coco1s/p/4034937.html  
 http://www.cnblogs.com/coco1s/p/4029708.html  
