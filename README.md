@@ -1,7 +1,7 @@
 # FE-interview
 收集的一些前端面试题，便于自我回顾，自我学习
 
-| nUmber |                 Content                  |
+| Number |                 Content                  |
 | :----: | :--------------------------------------: |
 |   1    | [BAT及各大互联网公司2014前端笔试面试题--Html,Css篇](http://www.cnblogs.com/coco1s/p/4034937.html) |
 |   2    | [BAT及各大互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/p/4029708.html) |
