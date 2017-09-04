@@ -1,7 +1,9 @@
 # FE-interview
-收集的一些前端面试题，便于自我回顾，自我学习
+收集的一些前端面试题
 
-| Number |                 Content                  |
+从面试题发现不足进而查漏补缺比通过面试更难得~~~
+
+| Number |                 Content                  |
 | :----: | :--------------------------------------: |
 |   1    | [BAT及各大互联网公司2014前端笔试面试题--Html,Css篇](http://www.cnblogs.com/coco1s/p/4034937.html) |
 |   2    | [BAT及各大互联网公司2014前端笔试面试题--JavaScript篇](http://www.cnblogs.com/coco1s/p/4029708.html) |
@@ -30,3 +32,13 @@
 |   25   | [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) |
 |   26   | [js-interview-review](https://github.com/adam-s/js-interview-review) |
 |   27   | [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) |
+|   28   | [方正的前端面试知识点汇总](https://zhuanlan.zhihu.com/p/29012060) |
+|   29   | [React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035) |
+|   30   | [2016各大互联网公司前端面试题汇总](http://www.jackpu.com/2016ge-da-hu-lian-wang-gong-si-qian-duan-mian-shi-ti-hui-zong/) |
+|   31   | [2017年第一波JavaScript前端面试题](https://zhuanlan.zhihu.com/p/25424194) |
+|   32   | [前端面试之js相关问题（一）](https://zhuanlan.zhihu.com/p/22109292) |
+|   33   | [前端面试之js相关问题（二）](https://zhuanlan.zhihu.com/p/22177711) |
+|   34   | [无他，唯手熟尔-前端实习面试题篇](https://zhuanlan.zhihu.com/p/25860314) |
+|   35   | [前端基础面试题(JS部分)](https://zhuanlan.zhihu.com/p/28428367) |
+|   36   | [Vue面试题合集](http://www.jianshu.com/p/e54a9a34a773) |
+|        |                                          |
