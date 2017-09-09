@@ -42,3 +42,4 @@
 |   35   | [前端基础面试题(JS部分)](https://zhuanlan.zhihu.com/p/28428367) |
 |   36   | [Vue面试题合集](http://www.jianshu.com/p/e54a9a34a773) |
 |   37   | [JavaScript，Python，go实现十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm) |
+|   38   | [破解前端面试（80% 应聘者不及格系列）：从 闭包说起](https://zhuanlan.zhihu.com/p/25855075) |
