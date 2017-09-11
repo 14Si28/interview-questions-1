@@ -1,7 +1,7 @@
 # FE-interview
 收集的一些前端面试题
 
-从面试题发现不足进而查漏补缺比通过面试更难得~~~
+太用力的人跑不远，面试是次要，技术的沉淀和积累才是主要
 
 | Number |                 Content                  |
 | :----: | :--------------------------------------: |
@@ -43,3 +43,4 @@
 |   36   | [Vue面试题合集](http://www.jianshu.com/p/e54a9a34a773) |
 |   37   | [JavaScript，Python，go实现十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm) |
 |   38   | [破解前端面试（80% 应聘者不及格系列）：从 闭包说起](https://zhuanlan.zhihu.com/p/25855075) |
+|   39   | [前端面试--四月二十家前端面试题分享](http://www.jianshu.com/p/c41cc287d7d4) |
