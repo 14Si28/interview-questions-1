@@ -44,3 +44,5 @@
 |   37   | [JavaScript，Python，go实现十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm) |
 |   38   | [破解前端面试（80% 应聘者不及格系列）：从 闭包说起](https://zhuanlan.zhihu.com/p/25855075) |
 |   39   | [前端面试--四月二十家前端面试题分享](http://www.jianshu.com/p/c41cc287d7d4) |
+|   40   | [我遇到的前端面试题2017](http://www.imooc.com/article/20319) |
+|   41   | [ECMAScript 6 六级考试](http://qingbob.com/es6-level6-test/) |
